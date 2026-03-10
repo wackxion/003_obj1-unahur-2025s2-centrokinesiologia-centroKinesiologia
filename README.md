@@ -3,9 +3,16 @@ Centro de Kinesiologia
 En un centro de kinesiología hay distintos tratamientos para la cura de lesiones dolorosas y fortalecimiento muscular. Se nos pide armar un modelo que permita estudiar algunos parámetros sobre los pacientes, y controlar el uso de los aparatos.
 
 # 1. Aparatos y pacientes.
-De cada paciente del centro de kinesiologia interesa conocer la edad, el nivel de fortaleza muscular y el nivel de dolor.
-El nivel de fortaleza y el nivel de dolor son valores que se van modificando a medida que el paciente utiliza aparatos.
-El centro tiene distintos tipos de aparatos, en este enunciado incluimos sólo tres. La incorporación de nuevos tipos de aparatos debe ser sencilla, no debería ser necesario modificar código existente sino solamente agregar nuevas definiciones.
+De cada paciente del centro de kinesiologia interesa conocer 
+- la edad, 
+- el nivel de fortaleza muscular  
+- el nivel de dolor.
+
+*El nivel de fortaleza y el nivel de dolor son valores que se van modificando a medida que el paciente utiliza aparatos.*
+
+*El centro tiene distintos tipos de aparatos, en este enunciado incluimos sólo tres.* 
+
+*La incorporación de nuevos tipos de aparatos debe ser sencilla, no debería ser necesario modificar código existente sino solamente agregar nuevas definiciones.*
 
 # Cuando un paciente usa un aparato pasa lo siguiente:
 
